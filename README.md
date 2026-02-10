@@ -74,8 +74,19 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=parth5404&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=parth5404&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=parth5404&theme=tokyonight" alt="GitHub stats summary" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parth5404&theme=tokyonight" alt="Repos per language" />
+
+</div>
+
+---
+
+## 🔥 Coding Streaks
+
+<div align="center">
+
+<img height="170" src="https://github-readme-streak-stats.demolab.com?user=parth5404&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img height="170" src="https://leetcard.jacoblin.cool/parthlahoti5404?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode profile and streak card" />
 
 </div>
 

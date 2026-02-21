@@ -85,7 +85,7 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-streak-stats.demolab.com?user=parth5404&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
 <img height="170" src="https://leetcard.jacoblin.cool/parthlahoti5404?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode profile and streak card" />
 
 </div>
